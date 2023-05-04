@@ -1,0 +1,27 @@
+.name {
+  line-height: 40px;
+}
+
+.hero__wrapper {
+  padding: 20px;
+  padding-bottom: 25px;
+  border: 2px solid w;
+  border-radius: 10px;
+  text-align: center;
+  background: linear-gradient(10deg, grey, white);
+  margin: 10px;
+  max-width: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image {
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: 700;
+}
